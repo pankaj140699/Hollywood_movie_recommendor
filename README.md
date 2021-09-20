@@ -6,6 +6,10 @@ This web app is hosted on heroku and can be viewed from the link given below :
 
 Link: https://hollywood-mrs.herokuapp.com/
 
+**Flowchart Of Methodology**
+
+
+
 **INPUT** :
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/53823786/133544247-9d277572-d109-43fc-97fb-f71a2dc6c7d5.png)
