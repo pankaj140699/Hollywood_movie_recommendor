@@ -9,6 +9,7 @@ Link: https://hollywood-mrs.herokuapp.com/
 **Flowchart Of Methodology**
 
 
+![Screenshot (9)](https://user-images.githubusercontent.com/53823786/133976287-2c75f475-f668-4fbe-9281-28e2b62e2514.png)
 
 **INPUT** :
 
